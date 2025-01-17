@@ -1,6 +1,7 @@
 ---
 manufacturer: 
-    - motorola
+    - motorola (HelloUI)
+    - motorola (MyUX)
 
 ---
 
